@@ -1,0 +1,7 @@
+fastapi
+uvicorn  
+scikit-learn 
+joblib
+rdkit-pypi 
+xgboost
+python-dotenv 

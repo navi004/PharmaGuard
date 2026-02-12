@@ -1,0 +1,32 @@
+[
+  {
+    "level": "HIGH",
+    "source": "DDI Rule",
+    "message": "Known DDI: DB00641 ↔ DB00682. Simvastatin may increase the anticoagulant activities of Warfarin."
+  },
+  {
+    "level": "HIGH",
+    "source": "DDI Rule",
+    "message": "Known DDI: DB00682 ↔ DB00641. Simvastatin may increase the anticoagulant activities of Warfarin."
+  },
+  {
+    "source": "DFI Info",
+    "level": "HIGH",
+    "drug": "Simvastatin",
+    "notes": [
+      "Avoid grapefruit products. Co-administration with grapefruit products may increase the risk for adverse effects such as myalgia."
+    ]
+  },
+  {
+    "source": "DFI Info",
+    "level": "HIGH",
+    "drug": "Warfarin",
+    "notes": [
+      "Avoid drastic dietary changes.",
+      "Avoid foods rich in vitamin K. Vitamin K in foods such as leafy vegetables can reduce warfarin efficacy.",
+      "Avoid grapefruit products. They may interfere with warfarin metabolism and increase INR, increasing the risk of bleeding.",
+      "Avoid herbs and supplements with anticoagulant/antiplatelet activity. Examples include garlic, ginger, bilberry, danshen, piracetam, and ginkgo biloba.",
+      "Avoid St. John's Wort. This drug may reduce warfarin efficacy."
+    ]
+  }
+]
