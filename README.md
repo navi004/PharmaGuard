@@ -16,6 +16,11 @@ This hybrid design gives the system both the interpretability of expert rules an
 
 ---
 
+## Data Source
+
+**DrugBank Database**  
+Drug interaction data was sourced from the [DrugBank](https://go.drugbank.com/) XML database — a comprehensive pharmaceutical knowledgebase containing detailed drug, mechanism, and interaction data. The XML was parsed and structured to extract 100K+ drug pairs for model training and to seed the rule engine with known DDI/DFI interaction patterns.
+
 ## Architecture
 
 ```
